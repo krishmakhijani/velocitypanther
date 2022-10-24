@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align="center">Hi 👋, I'm Krish Makhijani</h1>
 <h3 align="center">A passionate Full-Stack Web Developer || Competitive Programmer ||</h3>
