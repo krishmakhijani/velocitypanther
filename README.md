@@ -6,11 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishmakhijani&label=Profile%20views&color=0e75b6&style=flat" alt="krishmakhijani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_KrishMakhijani" target="blank"><img src="https://img.shields.io/twitter/follow/_krishmakhijani?logo=twitter&style=for-the-badge" alt="_krishmakhijani" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@krishmakhijani](https://medium.com/@krishmakhijani)
-
-- 💬 Ask me about **Java , Linux , DSA , Networking**
+- 💬 Ask me about **Java , DSA , WEB-DEV**
 
 - 📫 How to reach me **krishmakhijani@icloud.com**
 
