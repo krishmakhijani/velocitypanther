@@ -1,7 +1,7 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align="center">Hi 👋, I'm Krish Makhijani</h1>
 <h3 align="center">A Passionate || Full-Stack Web Developer || Competitive Programmer ||</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ed6900976fd0754e9b6efc32e110ba61226cb8bdbdc6ed67db5b413622c70649/68747470733a2f2f74656e6f722e636f6d2f766965772f636f64652d636f64696e672d70726f6772616d6d696e672d636f6d70757465722d736369656e63652d70726f6772616d6d696e672d6c616e67756167652d6769662d31363539363535392e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishmakhijani&label=Profile%20views&color=0e75b6&style=flat" alt="krishmakhijani" /> </p>
 
