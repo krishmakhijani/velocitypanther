@@ -1,7 +1,6 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 # 💫 About Me:
 🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing<br>
-
 <!-- [![](https://visitcount.itsvg.in/api?id=krishmakhijani&icon=1&color=0)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials:
