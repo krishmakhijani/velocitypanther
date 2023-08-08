@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing<br>
 
-[![](https://visitcount.itsvg.in/api?id=krishmakhijani&icon=1&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=krishmakhijani&icon=1&color=0)](https://visitcount.itsvg.in) -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmakhijani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishmakhijani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_KrishMakhijani) 
