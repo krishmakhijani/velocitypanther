@@ -3,7 +3,7 @@
 🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing<br>
 <!-- [![](https://visitcount.itsvg.in/api?id=krishmakhijani&icon=1&color=0)](https://visitcount.itsvg.in) -->
 <img
-  src="" width="650" height="400" 
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=krishmakhijani&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" 
 />
 <br>
 
