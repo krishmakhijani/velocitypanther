@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmakhijani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishmakhijani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/krish_makhijani) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmakhijani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishmakhijani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/krish_makhijani) ![](https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet)
 <br>
 <a href="https://app.daily.dev/krishmakhijani"><img src="https://api.daily.dev/devcards/316a832a607c438682cee1c3cbc71d99.png?r=1nj" width="200" height="305" alt="Krish's Dev Card"/></a>
 <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000868.9a27591f73a3421da632e71782f75b25.1732" width="200" alt="Krish's Apple Music"/>
