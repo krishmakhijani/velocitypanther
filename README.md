@@ -9,8 +9,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/in/krish.makhijani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmakhijani) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krishmakhijani) [![Apple Music](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/profile/krishmakhijani) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/krish_makhijani) ![](https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet) 
 <br>
-<a href="https://app.daily.dev/krishmakhijani"><img src="https://api.daily.dev/devcards/316a832a607c438682cee1c3cbc71d99.png?r=1nj" width="200" height="305" alt="Krish's Dev Card"/></a>
-<img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000868.9a27591f73a3421da632e71782f75b25.1732" width="200" alt="Krish's Apple Music"/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=727rwr9gweu1oyezhvd3ts47i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 # 💻 Workspace Spec:
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white) ![Macbook Pro](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white) ![iPhone](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
