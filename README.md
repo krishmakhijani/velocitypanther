@@ -4,11 +4,12 @@
 
 ## 🌐 Socials:
 
-<div><a href="https://instagram.com/krish.makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/black/white" /> 
-<div><a href="https://www.linkedin.com/in/krishmakhijani/"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/black/white" /></a></div>
+<div><a href="https://instagram.com/krish.makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" />
+<div><a href="https://linkt.ree/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linktree/43E55E"/>
+<div><a href="https://www.linkedin.com/in/krishmakhijani/"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a></div>
 <div><a href="https://medium.com/@krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/medium/black/white" /></a></div>
-<div><a href="https://music.apple.com/profile/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/applemusic/black/white" /></a></div>
-<div><a href="https://twitter.com/krish_makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x/black/white" /></a></div>
+<div><a href="https://music.apple.com/profile/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/applemusic/FA243C" /></a></div>
+<div><a href="https://twitter.com/krish_makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1D9BF0" /></a></div>
   <br>
 <br>
 <img align="left" src="https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet" />
