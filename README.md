@@ -4,13 +4,98 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/in/krish.makhijani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishmakhijani) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krishmakhijani) [![Apple Music](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/profile/krishmakhijani) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/krish_makhijani) ![](https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet) 
+<div><a href="https://instagram.com/in/krish.makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/black/white" /> 
+<div><a href="https://linkedin.com/in/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/black/white" /></a></div>
+<div><a href="https://linkedin.com/in/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/medium/black/white" /></a></div>
+<div><a href="https://music.apple.com/profile/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/applemusic/black/white" /></a></div>
+<div><a href="https://twitter.com/krish_makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x/black/white" /></a></div>
+  <br>
+<br>
+<img align="left" src="https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet" />
+<br>
 
 # 💻 Workspace Spec:
-![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white) ![Macbook Pro](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white) ![iPhone](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apple/black/white" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/macos/black/white" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ios/black/white" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/ubuntu" />
+<br>
+
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![iTERM2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white) ![StarShip](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
-# 📊 GitHub Stats:
+
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/c/00599C"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/00599C"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/avajs/4B4B77"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/lua/2C2D72"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/php/777BB4"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnubash/4EAA25"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/FF9900"/>
+<br>
+<br>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/0078D7"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase/FFCA28"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/4285F4"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/vercel/black/white"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/digitalocean/0080FF"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/heroku/430098"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/django/092E20"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express/black/white"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git/F05032"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837"/>
+<br>
+<br>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nestjs/E0234E"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/yarn/2C8EBB"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/threedotjs/black/white"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs/4FC08D"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apache/D22128"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nginx/009639"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sqlite/003B57"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mariadb/003545"/>
+<br>
+<br>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/canva/00C4CC"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/figma/F24E1E"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/numpy/013243"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/pandas/150458"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/alfred/5C1F87"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/arduino/00878F"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/eslint/4B32C3"/>
+<br>
+<br>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/notion/black/white"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postman/FF6C37"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux/764ABC"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/xcode/147EFB"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sublimetext/FF9800"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/replit/F26207"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/pycharm/black/white"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/neovim/57A143"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/googlecolab/F9AB00"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/black/white"/>
+<br>
+<br>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/prettier/F7B93E"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/flutter/02569B"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/iterm2/black/white"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/starship/DD0B78"/>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gatsby/663399"/>
+
+
 
 
