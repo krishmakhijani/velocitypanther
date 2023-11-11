@@ -16,11 +16,6 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet" />
 <br>
 
-# Currently Listening <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/spotify/1DB954"/> 🎧:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=727rwr9gweu1oyezhvd3ts47i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6be566&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<br>
-
 # 💻 Workspace Spec:
 
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apple/black/white" />
