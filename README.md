@@ -101,4 +101,9 @@
 <br>
 <br>
 
+# GITHUB STATS📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishmakhijani&theme=radical&layout=donut&langs_count=10)](https://github.comkrishmakhijani)
+![krishmakhijani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishmakhijani&theme=radical&hide_border=false)
+
+
 
