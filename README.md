@@ -6,7 +6,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7D315&center=true&random=false&width=435&lines=A+Passionate+WebApp+Developer+;A+Passionate+Competitive+Programmer;A+Googler)](https://github.com/krishmakhijani)
 
 ## About Me:
-🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing
+
+<div style="display: flex;">
+  <div style="flex: 1;">🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing</div>
+  <div style="padding-bottom: 10px;"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" align="right" width="200" height="200"></div>
+</div>
+
 
 ## 🌐 Socials:
 
