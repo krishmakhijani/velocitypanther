@@ -2,10 +2,10 @@
 
 <h1 align=center>
  
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">  Hi  there,  I  am  Krish Makhijani <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7D315&center=true&random=false&width=435&lines=A+Passionate+WebApp+Developer+;A+Passionate+Competitive+Programmer;A+Googler" alt="Typing SVG" /></a>
-</h1>
-# 💫 About Me:
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">  Hi  there,  I  am  Krish Makhijani </br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7D315&center=true&random=false&width=435&lines=A+Passionate+WebApp+Developer+;A+Passionate+Competitive+Programmer;A+Googler)](https://github.com/krishmakhijani)
+
+## About Me:
 🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing
 
 ## 🌐 Socials:
