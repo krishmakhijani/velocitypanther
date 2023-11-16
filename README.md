@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 <div><a href="https://instagram.com/krish.makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" />
-<div><a href="https://linkt.ree/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linktree/43E55E"/>
+<div><a href="https://linktr.ee/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linktree/43E55E"/>
 <div><a href="https://www.linkedin.com/in/krishmakhijani/"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a></div>
 <div><a href="https://medium.com/@krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/medium/black/white" /></a></div>
 <div><a href="https://music.apple.com/profile/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/applemusic/FA243C" /></a></div>
