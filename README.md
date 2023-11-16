@@ -1,4 +1,10 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.instagram.com/krish.makhijani)
+<!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.instagram.com/krish.makhijani) -->
+
+<h1 align=center>
+ 
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">  Hi  there,  I  am  Krish Makhijani <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7D315&center=true&random=false&width=435&lines=A+Passionate+WebApp+Developer+;A+Passionate+Competitive+Programmer;A+Googler" alt="Typing SVG" /></a>
+</h1>
 # 💫 About Me:
 🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing
 
