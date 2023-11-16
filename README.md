@@ -7,9 +7,9 @@
 
 ## About Me:
 
-<div style="display: flex;">
-  <div style="flex: 1;">🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing</div>
-  <div style="padding-bottom: 10px;"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" align="right" width="200" height="200"></div>
+<div style="display: flex; justify-content: flex-start;">
+  <div style="align:centre;"><p>🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing</p> </div>
+  <div><img src="https://github.com/krishmakhijani/DSA/assets/112251957/07071b90-1036-42ff-980f-6add8f20a106" align="right" width="250" height="250"></div>
 </div>
 
 
