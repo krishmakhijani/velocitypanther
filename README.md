@@ -104,7 +104,7 @@
 # GITHUB STATS📊
 
 [![Top Langs](https://github-stats-krishmakhijani.vercel.app/api/top-langs/?username=krishmakhijani&theme=neon&layout=donut&langs_count=10)](https://github.com/krishmakhijani)
-[![GitHub Streak](https://github-readme-streak-stats-krishmakhijani.vercel.app/?user=krishmakhijani&theme=neon)](https://github.com/krishmakhijani)
+[![GitHub Streak](https://github-readme-streak-stats-krishmakhijani.vercel.app?user=krishmakhijani&theme=neon&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://github.com/krishmakhijani)
 
 
 
