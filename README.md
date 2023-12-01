@@ -29,9 +29,9 @@
 
 # 💻 Workspace Spec:
 
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apple/black/white" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/macos/black/white" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ios/black/white" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apple/FFFFFF/black" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/macos/FFFFFF/black" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ios/FFFFFF/black" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/ubuntu" />
 <br>
 <br>
