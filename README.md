@@ -29,9 +29,9 @@
 
 # 💻 Workspace Spec:
 
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apple/FFFFFF/black" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/macos/FFFFFF/black" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ios/FFFFFF/black" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apple/FFFFFF/" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/macos/FFFFFF/" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ios/FFFFFF/" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/ubuntu" />
 <br>
 <br>
@@ -114,8 +114,6 @@
 
 # GITHUB STATS📊
 
-[![Top Langs](https://github-stats-krishmakhijani.vercel.app/api/top-langs/?username=krishmakhijani&theme=neon&layout=donut&langs_count=10)](https://github.com/krishmakhijani)
-[![GitHub Streak](https://github-readme-streak-stats-krishmakhijani.vercel.app?user=krishmakhijani&theme=neon&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://github.com/krishmakhijani)
-
+[![Top Langs](https://github-stats-nu-tan.vercel.app/api/top-langs/?username=krishmakhijani&theme=neon&layout=donut&langs_count=10)](https://github.com/krishmakhijani)
 
 
