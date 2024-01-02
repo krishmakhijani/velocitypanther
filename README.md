@@ -1,40 +1,9 @@
 <!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.instagram.com/krish.makhijani) -->
 
 <h1 align=center>
- 
+
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">  Hi  there,  I  am  Krish Makhijani </br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7D315&center=true&random=false&width=435&lines=A+Passionate+WebApp+Developer+;A+Passionate+Competitive+Programmer;A+Googler)](https://github.com/krishmakhijani)
-
-## About Me:
-
-<div style="display: flex; justify-content: flex-start;">
-  <div style="align:centre;"><p>🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing</p> </div>
-  <div><img src="https://github.com/krishmakhijani/DSA/assets/112251957/07071b90-1036-42ff-980f-6add8f20a106" align="right" width="250" height="250"></div>
-</div>
-
-
-## 🌐 Socials:
-
-<div><a href="https://instagram.com/krish.makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" />
-<div><a href="https://www.linkedin.com/in/krishmakhijani/"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a></div>
-<div><a href="https://medium.com/@krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/medium/white" /></a></div>
-<div><a href="https://music.apple.com/profile/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/applemusic/FA243C" /></a></div>
-<div><a href="https://twitter.com/krish_makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1D9BF0" /></a></div>
-<br>
-<br>
-<br>
-<img align="left" src="https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet" />
-<br>
-
-# 💻 Workspace Spec:
-
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apple/FFFFFF/" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/macos/FFFFFF/" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ios/FFFFFF/" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/ubuntu" />
-<br>
-<br>
-
 
 # 💻 Tech Stack:
 
@@ -111,8 +80,16 @@
 <br>
 <br>
 
-# GITHUB STATS📊
+## 🌐 Socials:
 
-[![Top Langs](https://github-stats-nu-tan.vercel.app/api/top-langs/?username=krishmakhijani&theme=neon&layout=donut&langs_count=10)](https://github.com/krishmakhijani)
-
+<div><a href="https://instagram.com/krish.makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" />
+<div><a href="https://www.linkedin.com/in/krishmakhijani/"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a></div>
+<div><a href="https://medium.com/@krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/medium/white" /></a></div>
+<div><a href="https://music.apple.com/profile/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/applemusic/FA243C" /></a></div>
+<div><a href="https://twitter.com/krish_makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1D9BF0" /></a></div>
+<br>
+<br>
+<br>
+<img align="left" src="https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet" />
+<br>
 
