@@ -111,6 +111,3 @@
 <br>
 <br>
 
-# GITHUB STATS📊
-
-[![Top Langs](https://github-stats-nu-tan.vercel.app/api/top-langs/?username=krishmakhijani&theme=neon&layout=donut&langs_count=10)](https://github.com/krishmakhijani)
