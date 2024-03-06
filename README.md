@@ -15,11 +15,11 @@
 
 ## 🌐 Socials:
 
-<div><a href="https://instagram.com/krish.makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" />
+<div><a href="https://instagram.com/velocitypanther"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" />
 <div><a href="https://www.linkedin.com/in/krishmakhijani/"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a></div>
 <div><a href="https://medium.com/@krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/medium/white" /></a></div>
 <div><a href="https://music.apple.com/profile/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/applemusic/FA243C" /></a></div>
-<div><a href="https://twitter.com/krish_makhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1D9BF0" /></a></div>
+<div><a href="https://twitter.com/velocitypanther"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1D9BF0" /></a></div>
 <br>
 <br>
 <br>
