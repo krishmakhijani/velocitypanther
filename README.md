@@ -1,113 +1,197 @@
-<!-- [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.instagram.com/krish.makhijani) -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h1 align=center>
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
 
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25px">  Hi  there,  I  am  Krish Makhijani </br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7D315&center=true&random=false&width=435&lines=A+Passionate+WebApp+Developer+;A+Passionate+Competitive+Programmer;A+Googler)](https://github.com/krishmakhijani)
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## About Me:
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+  <a href="https://dev.to/krishmakhijani"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username krishmakhijani" /></a>
+  <a href="https://www.linkedin.com/in/krishmakhijani/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username krishmakhijani" /></a>
+  <a href="mailto:krishmakhijani.inbox@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Krish i.e.   krishmakhijani.inbox@gmail.com" /></a>
+  <a href="https://discordapp.com/users/velocitypanther"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username velocitypanther" ></a>
+  <a href="https://twitter.com/krish_makhijani"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username krish_makhijani" ></a>
+  <a href="https://peerlist.io/krishmakhijani"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username krishmakhijani" ></a>
+</div>
+<br>
 
-<div style="display: flex; justify-content: flex-start;">
-  <div style="align:centre;"><p>🔭I'm currently working on React.JS<br>🧑‍🤝‍🧑I'm looking to collaborate on API's<br>🆘I'm looking for help with IOT<br>🍁I'm currently learning TypeScript<br>💬Ask me about C++ , DSA , LINUX , Cloud Computing</p> </div>
-  <div><img src="https://github.com/krishmakhijani/DSA/assets/112251957/07071b90-1036-42ff-980f-6add8f20a106" align="right" width="250" height="250"></div>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<div>
+
+<i>&nbsp; Building products with open source.</i><br><br>
+
+👋 Greetings! It's great to have you here. I'm Krish Makhijani, a full-stack developer from India, super into Open Source, and love managing communities.
+
+🎯 Love to Connect developers on  [LinkedIn](https://www.linkedin.com/in/krishmakhijani/) and [Twitter](https://twitter.com/krish_makhijani).
+
 </div>
 
-
-## 🌐 Socials:
-
-<div><a href="https://instagram.com/velocitypanther"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" />
-<div><a href="https://www.linkedin.com/in/krishmakhijani/"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a></div>
-<div><a href="https://medium.com/@krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/medium/white" /></a></div>
-<div><a href="https://music.apple.com/profile/krishmakhijani"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/applemusic/FA243C" /></a></div>
-<div><a href="https://twitter.com/velocitypanther"><img align="left" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1D9BF0" /></a></div>
-<br>
-<br>
-<br>
-<img align="left" src="https://komarev.com/ghpvc/?username=krishmakhijani&style=flat&color=blueviolet" />
 <br>
 
-# 💻 Workspace Spec:
+<details>
+  <summary>🏆 Achievements</summary>
+  <br>
+  
+  💜 Pentathon 2024
+  - #1 in Pentathon conducted by Bajaj Finserv
+  - Created a Brain Tumor and Alzhemier Detection Machine Learning Modal
+  - Used OpenCV and YOLOV8 for the same 
+  - My Contribution : 
+  - Enabled efficient and secure image management by converting images to and from BASE64 URLs and developing an ideal web application capable of managing this.
+  
+</details>
 
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apple/FFFFFF/" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/macos/FFFFFF/" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ios/FFFFFF/" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/ubuntu" />
-<br>
-<br>
+<br><br>
 
 
-# 💻 Tech Stack:
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/c/00599C"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/00599C"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/avajs/4B4B77"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/lua/2C2D72"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/php/777BB4"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gnubash/4EAA25"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/FF9900"/>
+
 <br>
-<br>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/0078D7"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase/FFCA28"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/4285F4"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/vercel/black/white"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/digitalocean/0080FF"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/heroku/430098"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/django/092E20"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/express/black/white"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git/F05032"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837"/>
-<br>
-<br>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nestjs/E0234E"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/yarn/2C8EBB"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/threedotjs/black/white"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs/4FC08D"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/apache/D22128"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nginx/009639"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sqlite/003B57"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mariadb/003545"/>
-<br>
-<br>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/mysql/4479A1"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/canva/00C4CC"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/figma/F24E1E"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/numpy/013243"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/pandas/150458"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/alfred/5C1F87"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/arduino/00878F"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/eslint/4B32C3"/>
-<br>
-<br>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/notion/black/white"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/postman/FF6C37"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/redux/764ABC"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/xcode/147EFB"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/sublimetext/FF9800"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/replit/F26207"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/pycharm/black/white"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/neovim/57A143"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/googlecolab/F9AB00"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/black/white"/>
-<br>
-<br>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/prettier/F7B93E"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/flutter/02569B"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/iterm2/black/white"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/starship/DD0B78"/>
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/gatsby/663399"/>
-<br>
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishmakhijani&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+
+| Category        | Skills        |
+|-----------------|---------------|
+| Frameworks| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> |
+| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> |
+| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=udacity&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Services & Tools| <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" /> <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| Competitive Coding | <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/anmol119"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> |
+| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> |
+| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/foursquare-3333FF?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
+| Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a> |
+| Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> |
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <br>
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| Designlyfe | [view](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
+| DevtoGitHub | [Marketplace](https://github.com/marketplace/actions/devtogithub) | [view](https://github.com/Anmol-Baranwal/DevtoGitHub) | `TypeScript` `GitHub Actions` `Forem API` `Postman`| 
+| Audily (Hackathon-24hr) | [view](https://audily-ai.vercel.app/) | [view](https://github.com/Builders-Valley/Audily-AI) | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` | 
+| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
+| Flutter Portfolio App | - | [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile) | `Dart` `Flutter` `Dot Navigation Bar`| 
+| WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
+| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
+| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
+| Plasmo Chrome Extension | - | [view](https://github.com/Anmol-Baranwal/country-chrome-extension) | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`
+| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
+| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
+| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
+| Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
+| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
+| Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
+| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
+| C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
+
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+# Metrics
+
+<details>
+  <summary>Expand</summary> 
+
+| Overview | Follow up Issues & PRs |
+|:--------:|:-------------------------:|
+| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
+| Leetcode Stats | Notable Contributions |
+| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
+| Achievements | Language Activity |
+| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
+| Discussions | Reactions |
+| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
+
+</details>                     
+<br>
+<hr>
+
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
+
+<div align="center">
+  <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
+  <br>
+  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a> 
+  <br> 
+  <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-0A0209?style=for-the-badge&logo=Product%20Hunt&logoColor=d5d5d5" /></a>
+  <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
+  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
+  <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
+  <br>
+  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-d5d5d5?style=for-the-badge&logo=codecademy&logoColor=0A0209" /></a> 
+  <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
+  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:anmolbaranwal119@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
+  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Anmol_Codes" ></a>
+  
+</div>
+
+<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<br><br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+| ![Krish Makhijani github stats](https://github-readme-stats.vercel.app/api?username=krishmakhijani\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Krish Makhijani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishmakhijani&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+
+<hr>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/krishmakhijani/krishmakhijani/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
