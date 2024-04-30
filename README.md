@@ -43,10 +43,14 @@
   
   💜 Pentathon 2024
   - #1 in Pentathon conducted by Bajaj Finserv
-  - Created a Brain Tumor and Alzhemier Detection Machine Learning Modal
+  - Created a Brain Tumor Detection Machine Learning Modal
   - Used OpenCV and YOLOV8 for the same 
-  - My Contribution : 
-  - Enabled efficient and secure image management by converting images to and from BASE64 URLs and developing an ideal web application capable of managing this.
+
+  💜 SYNAPSE 2.0 
+  - #3rd Place in SYNAPSE 2.0 hosted by PES University in collaboration with HACK 2 SKILL
+  - Developed a secure and localized Alzheimer's detection system using Roboflow YOLO V8 and OPEN CV
+  - Additionally, engineered a modular IoT device that integrates seamlessly with MRI scanning machines, powered by the OpenSSH API for secure server operations
+  - Leveraged the advanced Llama model for sophisticated recommendations and precise anomaly analysis
   
 </details>
 
@@ -88,64 +92,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
-# Metrics
-
-<details>
-  <summary>Expand</summary> 
-
-| Overview | Follow up Issues & PRs |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
-| Leetcode Stats | Notable Contributions |
-| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
-| Achievements | Language Activity |
-| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
-| Discussions | Reactions |
-| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
-
-</details>                     
-<br>
-<hr>
-
-
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<hr>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
-<br><br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-| ![Krish Makhijani github stats](https://github-readme-stats.vercel.app/api?username=krishmakhijani\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Krish Makhijani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishmakhijani&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
-
-<hr>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/krishmakhijani/krishmakhijani/output/github-contribution-grid-snake-dark.svg)
 
