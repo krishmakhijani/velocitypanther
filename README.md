@@ -2,14 +2,14 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
+![Banner GitHub](https://github.com/krishmakhijani/100xdevCohort/assets/112251957/689172af-b840-48fd-8291-ceeccd3d25a5)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/krishmakhijani/krishmakhijani&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
   <a href="https://dev.to/krishmakhijani"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username krishmakhijani" /></a>
   <a href="https://www.linkedin.com/in/krishmakhijani/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username krishmakhijani" /></a>
