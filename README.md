@@ -29,7 +29,7 @@
 
 <i>&nbsp; Building products with open source.</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Krish Makhijani, a full-stack developer from India, super into Open Source, and love managing communities.
+👋 Greetings! It's great to have you here. I'm Krish Makhijani, a data science enthusiast and full-stack developer from India, super into Open Source, and love managing communities.
 
 🎯 Love to Connect developers on  [LinkedIn](https://www.linkedin.com/in/krishmakhijani/) and [Twitter](https://twitter.com/krish_makhijani).
 
