@@ -5,7 +5,7 @@
 <!---![Banner GitHub](https://github.com/krishmakhijani/100xdevCohort/assets/112251957/689172af-b840-48fd-8291-ceeccd3d25a5)-->
 
 # Hey There! 👋
-**I'm Krish** - I'm a fullstack developer, designer, and undergraduate student based in the India. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+**I'm Krish** - I'm a fullstack developer, problem solver, and undergraduate student based in the India. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
